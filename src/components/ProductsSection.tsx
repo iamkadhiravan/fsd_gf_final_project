@@ -116,12 +116,7 @@ const ProductsSection = () => {
                 </div>
               </CardContent>
 
-              <CardFooter>
-                <Button variant="outline" className="w-full">
-                  <ShoppingCart className="w-4 h-4 mr-2" />
-                  Request Quote
-                </Button>
-              </CardFooter>
+            
             </Card>
           ))}
         </div>
